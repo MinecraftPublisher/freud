@@ -26,8 +26,8 @@ const bracket = ((text, start, end) => {
 
 		output += end
 		text = text.substring(1)
-    result.push(output)
-    j = text.indexOf(start) + 1
+		result.push(output)
+		j = text.indexOf(start) + 1
 	}
 
 	return result
@@ -80,7 +80,7 @@ const freud = ((code, num = 1) => {
 		_modules()
 		cases()
 
-		for(let mod of loaded) {
+		for (let mod of loaded) {
 			parts = parts.concat(Object.keys(modules[mod]).map((e) => `${mod}.${e}`))
 			functions = functions.concat(Object.keys(modules[mod]).map((e) => modules[mod][e]))
 		}
