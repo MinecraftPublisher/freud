@@ -1,0 +1,19 @@
+## C#
+- [x] MakeId function
+- [ ] Bracket function
+- [ ] Main loop
+- [ ] Commands
+    - [ ] Errors and handlers ( [internal] )
+    - [ ] Console manipulation (echo, clear, input)
+    - [ ] Synchronous sleep
+    - [ ] String manipulation (str)
+    - [ ] Array and array manipulation (array, push, join)
+    - [ ] Object to JSON string (jstring)
+    - [ ] Loop handler ( [internal] )
+    - [ ] Functions (void)
+    - [ ] While and For loops (while, for)
+    - [ ] If conditions (if, ifnot)
+    - [ ] Math operators (add, multiply, divide)
+    - [ ] Binary operators (more, less, equals, not, or, and)
+    - [ ] Import internal modules (import)
+    - [ ] Import external freud files (import)
