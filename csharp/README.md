@@ -1,9 +1,11 @@
 ## C#
 - [x] MakeId function
-- [ ] Bracket function
-- [ ] Main loop
-- [ ] Commands
-    - [ ] Errors and handlers ( [internal] )
+- [x] Bracket function
+- [x] JSON Parse and Stringify
+- [x] Module containers
+- [x] Main loop
+- [ ] **Commands**
+    - [x] Errors and handlers ( [internal] )
     - [ ] Console manipulation (echo, clear, input)
     - [ ] Synchronous sleep
     - [ ] String manipulation (str)
