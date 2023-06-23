@@ -69,7 +69,7 @@ const freud = ((code, num = 1) => {
 		let name = has_store ? splits[0].substring(1) : ''
 		if (has_store) splits = splits.slice(1)
 
-		let result = 'none'
+		let result = '"none"'
 
 		let command = splits[0]
 		let args = splits.slice(1)
